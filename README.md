@@ -16,7 +16,7 @@ Turn it into a main project with more advanced features such as object detection
 # Please Follow the below Guidelines:
 - It is better to make a habit of Merging via Pull Request vs Direct Commit to Master Branch! [Read this for better undertanding!](https://stackoverflow.com/questions/45783200/reasons-not-to-commit-to-master) [Pull Request Tutorial-A Visual Guide to Pull Requests](https://yangsu.github.io/pull-request-tutorial/)
 - Post all the Resources in the README file in the Resources Folder.
-- Post all your project codes based on project Part-1 in Folder *Part-1*. If you are sharing your code please make a folder with your name and post it within that folder! 
+- **Post all your project codes based on project Part-1 in Folder *Part-1*. If you are sharing your code please make a folder with your name and post it within that folder!** 
 - You may also choose to share your personal Github Repo link in the README file, if not the complete code for Part-1.
 
 # Active Members (Slack handles)
